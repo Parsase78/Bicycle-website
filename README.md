@@ -1,4 +1,4 @@
-# Bicycle Ecommerce   Website
+# Bicycle Ecommerce  Web
 
 ## Techonolgies used
 * HTML
